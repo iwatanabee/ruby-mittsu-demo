@@ -68,7 +68,7 @@ renderer.window.run do
 end
 ```
 
-## 01 Sceneクラス
+## Sceneクラス
 ### 01_scene_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/99e1fa7a-c648-4dac-aff5-0994faf799d4" width="50%">
 
@@ -89,7 +89,7 @@ renderer.window.run do
 end
 ```
 
-## 02 ジオメトリ(形状)
+## ジオメトリ(形状)
 ### 02_geometries_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/be47c8e5-463d-4245-a4b9-4fa2eb76325c" width="50%">
 
@@ -336,7 +336,7 @@ renderer.window.run do
 end
 ```
 
-## 03 Objectクラス
+## Objectクラス
 ### 03_complex_object_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
@@ -394,7 +394,7 @@ renderer.window.run do
   renderer.render(scene, camera)
 end
 ```
-
+## ライト
 ### 04_ambient_light_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/b08b201e-b8f7-4d68-af68-a7a335fbe3a0" width="50%">
 
@@ -661,7 +661,7 @@ renderer.window.run do
   renderer.render(scene, camera)
 end
 ```
-
+## マテリアルとテクスチャー
 ### 05_earth_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/847d99cb-8905-4259-8eb6-35a61c8aeefe" width="50%">
 
@@ -802,7 +802,7 @@ renderer.window.run do
 end
 
 ```
-
+## テクスチャー
 ### 06_cube_texture_example.rb x
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
@@ -1213,6 +1213,7 @@ Scene (<Scene #1>) [0.0, 0.0, 0.0]
     ┣╸Mesh (mesh10.002_mesh10-geometry male-02-1noCullingID_male-02-1noCulling.JP) [0.0, 0.0, 0.0]
     ┗╸Mesh (mesh10.002_mesh10-geometry FrontColorNoCullingID_male-02-1noCulling.JP) [0.0, 0.0, 0.0]
 ```
+## イベントハンドラ
 ### 11_character_input_example.rb
 キーボードで入力した文字を認識する  
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
@@ -1574,7 +1575,7 @@ ERROR: Please plug in a joystick to run this example.
 ```
 
 ### 14_sprite_example.rb
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/22b2c110-4fe2-41e1-830d-10a891d0d5da" width="50
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/22b2c110-4fe2-41e1-830d-10a891d0d5da" width="50>
 
 ```ruby
 require_relative './example_helper'
@@ -1881,7 +1882,7 @@ renderer.window.run do
 end
 
 ```
-
+## オブジェクト
 ### 16_transparent_objects_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/c135976c-25f9-48b2-9933-80e5452cf72d" width="50%">
 
@@ -2065,7 +2066,7 @@ renderer.window.run do
 end
 
 ```
-
+## 色
 ### 19_mesh_face_material_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/2ac5a94f-0051-4f20-9a6e-eb8481718f2e" width="50%">
 
