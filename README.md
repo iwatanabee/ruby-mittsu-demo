@@ -115,7 +115,9 @@ Scene (<Scene #1>) [0.0, 0.0, 0.0]
 ```
 ### 11_character_input_example.rb
 キーボードの文字を認識する
+
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+
 ```
 qwertyuiop@@;lkjhgfdsazxbnm,% 
 ```
@@ -159,7 +161,6 @@ ERROR: Please plug in a joystick to run this example.
 
 ### 17_point_cloud_example.rb x
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
 
 ### 18_remove_object_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/030e7712-7ae6-488e-8de9-71d47df1aa77" width="50%">
