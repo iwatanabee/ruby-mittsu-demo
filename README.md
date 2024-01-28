@@ -5,17 +5,19 @@ Mittsu ライブラリにあった公式ドキュメントのコード
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [ドキュメントにあった最初のコード](#%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E3%81%82%E3%81%A3%E3%81%9F%E6%9C%80%E5%88%9D%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89)
-- [01 scene](#01-scene)
+- [01 Sceneクラス](#01-scene%E3%82%AF%E3%83%A9%E3%82%B9)
   - [01_scene_example.rb](#01_scene_examplerb)
+- [02 ジオメトリ(形状)](#02-%E3%82%B8%E3%82%AA%E3%83%A1%E3%83%88%E3%83%AA%E5%BD%A2%E7%8A%B6)
   - [02_geometries_example.rb](#02_geometries_examplerb)
   - [02_lathe_geometery_example.rb](#02_lathe_geometery_examplerb)
   - [02_parametric_geometry_example.rb](#02_parametric_geometry_examplerb)
   - [02_torus_knot_example.rb](#02_torus_knot_examplerb)
+- [03 Objectクラス](#03-object%E3%82%AF%E3%83%A9%E3%82%B9)
   - [03_complex_object_example.rb](#03_complex_object_examplerb)
   - [04_ambient_light_example.rb](#04_ambient_light_examplerb)
   - [04_dir_light_example.rb x](#04_dir_light_examplerb-x)
   - [04_hemi_light_example.rb](#04_hemi_light_examplerb)
-  - [04_point_light_example.rb　x](#04_point_light_examplerb-x)
+  - [04_point_light_example.rb　x](#04_point_light_examplerb%E3%80%80x)
   - [04_spot_light_example.rb x](#04_spot_light_examplerb-x)
   - [05_earth_example.rb](#05_earth_examplerb)
   - [05_earth_moon_example.rb](#05_earth_moon_examplerb)
@@ -63,11 +65,11 @@ renderer.window.run do
 end
 ```
 
-## 01 scene シーンクラス
+## 01 Sceneクラス
 ### 01_scene_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/99e1fa7a-c648-4dac-aff5-0994faf799d4" width="50%">
 
-## 02 geometrt ジオメトリ(形状)
+## 02 ジオメトリ(形状)
 ### 02_geometries_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/be47c8e5-463d-4245-a4b9-4fa2eb76325c" width="50%">
 
@@ -81,7 +83,7 @@ end
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/aa14a6b7-e404-4906-b6ff-8137f825999e" width="50%">
 
-## 03 object オブジェクトクラス
+## 03 Objectクラス
 ### 03_complex_object_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
