@@ -180,14 +180,53 @@ https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/521103d1-c5ce-49a
 https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4e2c82f4-babe-4765-9530-e44bd79b2f30
 
 ### 12_mouse_scroll_example.rb
+
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/0e38fb34-57a1-4c55-a213-50e250bdd40e
+
+
 ### 12_orbit_zoom_example.rb
+
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/da1f127c-6bf6-40ee-8468-dc48f7e360cf
+
+
 ### 13_joystick_example.rb
+```
+ERROR: Please plug in a joystick to run this example.
+```
+
 ### 14_sprite_example.rb
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/255c23c4-478f-4f64-b69a-12ad640ef22c
+
 ### 15_raycast_example.rb
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/35161dfc-c487-48f3-b072-b5d89b8272f7
+
+
 ### 15_raycast_obj_example.rb
+
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/58f4d0fa-b5f6-4984-a2bb-03be3274518c
+
+
 ### 16_transparent_objects_example.rb
+
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/cb14fb1b-c312-440c-9fc7-3e29d11ae854
+
+
 ### 17_point_cloud_example.rb
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/c33976d9-666d-4723-9581-437c83c561fd
+
 ### 18_remove_object_example.rb
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/803129a0-b2c0-4c45-a21a-736f41579b71
+
 ### 19_mesh_face_material_example.rb
+
+https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/691af1a3-ed94-4cc8-b1c9-cf4d8b328eb5
+
 
 
