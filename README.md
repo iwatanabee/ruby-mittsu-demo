@@ -7,6 +7,9 @@ Mittsu　ライブラリにあった公式ドキュメントのコード
 https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/a315d635-75c1-4ef7-abb5-871c3d8f34ee
 
 
+![300255216-a315d635-75c1-4ef7-abb5-871c3d8f34ee](https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4da409cd-a25c-403d-8a9e-3e72d3be584f)
+
+
 
 ## 01 scene
 ### 01_scene_example.rb
