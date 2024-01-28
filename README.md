@@ -15,7 +15,7 @@ Mittsu ライブラリにあった公式ドキュメントのコード
   - [04_ambient_light_example.rb](#04_ambient_light_examplerb)
   - [04_dir_light_example.rb x](#04_dir_light_examplerb-x)
   - [04_hemi_light_example.rb](#04_hemi_light_examplerb)
-  - [04_point_light_example.rb　x](#04_point_light_examplerb%E3%80%80x)
+  - [04_point_light_example.rb　x](#04_point_light_examplerb-x)
   - [04_spot_light_example.rb x](#04_spot_light_examplerb-x)
   - [05_earth_example.rb](#05_earth_examplerb)
   - [05_earth_moon_example.rb](#05_earth_moon_examplerb)
@@ -45,6 +45,23 @@ Mittsu ライブラリにあった公式ドキュメントのコード
 
 ## ドキュメントにあった最初のコード
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4da409cd-a25c-403d-8a9e-3e72d3be584f" width="50%">
+
+```ruby
+require_relative './example_helper'
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+ASPECT = SCREEN_WIDTH.to_f / SCREEN_HEIGHT.to_f
+
+scene = Mittsu::Scene.new
+camera = Mittsu::PerspectiveCamera.new(75.0, ASPECT, 0.1, 1000.0)
+
+renderer = Mittsu::OpenGLRenderer.new width: SCREEN_WIDTH, height: SCREEN_HEIGHT, title: '01 Scene Example'
+
+renderer.window.run do
+  renderer.render(scene, camera)
+end
+```
 
 ## 01 scene
 ### 01_scene_example.rb
