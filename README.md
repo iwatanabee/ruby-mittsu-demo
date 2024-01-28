@@ -31,61 +31,57 @@ Mittsu　ライブラリにあった公式ドキュメントのコード
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/b08b201e-b8f7-4d68-af68-a7a335fbe3a0" width="50%">
 
 
-### 04_dir_light_example.rb
-
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+### 04_dir_light_example.rb x
+<img src="" width="50%">
 
 ### 04_hemi_light_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/390f9621-d59f-4c06-b3bd-51be1fb91c7a" width="50%">
+
+### 04_point_light_example.rb　x
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
-### 04_point_light_example.rb
 
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
-
-### 04_spot_light_example.rb
+### 04_spot_light_example.rb x
 
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+
 ### 05_earth_example.rb
 
-
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/847d99cb-8905-4259-8eb6-35a61c8aeefe" width="50%">
 
 ### 05_earth_moon_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/c5cfafd3-1edc-451b-a531-460d4c3ffe56" width="50%">
 
 
 ### 05_texture_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
-
-### 06_cube_texture_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/f7042997-f147-4a64-8971-594d1b57ddea" width="50%">
 
 
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
-### 06_skybox_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
-
-### 07_earth_normal_example.rb
+### 06_cube_texture_example.rb x
 
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
-### 08_shadow_example.rb
+### 06_skybox_example.rb x
+
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-### 09_line_example.rb
+
+
+### 07_earth_normal_example.rb x
+
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+
+### 08_shadow_example.rb x
+<img src="" width="50%">
+
+### 09_line_example.rb x
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
 ### 10_obj_loader_example.rb
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4ac59f60-264b-499e-85fb-0096cd152a1d" width="50%">
 
 ```
 document-example % ruby 10_obj_loader_example.rb 
@@ -119,32 +115,25 @@ Scene (<Scene #1>) [0.0, 0.0, 0.0]
 ```
 ### 11_character_input_example.rb
 キーボードの文字を認識する
-
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 ```
 qwertyuiop@@;lkjhgfdsazxbnm,% 
 ```
 
 ### 11_keyboard_input_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/387b648f-8f65-4148-a579-469f817712fd" width="50%">
 
 ### 12_mouse_click_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/e9e5ad66-1ec4-4e13-b7c2-082a6d609cea" width="50%">
 
 ### 12_mouse_motion_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/059d5aba-0308-46a8-ad9e-b6f76cb05f05" width="50%">
 
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 ### 12_mouse_scroll_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/d2e21cda-28f4-4993-b962-e9b0889f5819" width="50%">
 
 ### 12_orbit_zoom_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/b74a5848-aea8-432e-b775-51374fb340f1" width="50%">
 
 
 ### 13_joystick_example.rb
@@ -154,29 +143,26 @@ ERROR: Please plug in a joystick to run this example.
 ```
 
 ### 14_sprite_example.rb
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/22b2c110-4fe2-41e1-830d-10a891d0d5da" width="50%">
 
 ### 15_raycast_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/7ba01089-e571-46f9-8361-10a1e69d7ae0" width="50%">
 
-
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
-
-### 15_raycast_obj_example.rb
+### 15_raycast_obj_example.rb x
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
 
 ### 16_transparent_objects_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/c135976c-25f9-48b2-9933-80e5452cf72d" width="50%">
 
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
-
-### 17_point_cloud_example.rb
+### 17_point_cloud_example.rb x
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
 
 ### 18_remove_object_example.rb
-
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/030e7712-7ae6-488e-8de9-71d47df1aa77" width="50%">
 
 ### 19_mesh_face_material_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/2ac5a94f-0051-4f20-9a6e-eb8481718f2e" width="50%">
