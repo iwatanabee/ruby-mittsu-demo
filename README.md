@@ -63,26 +63,25 @@ renderer.window.run do
 end
 ```
 
-## 01 scene
+## 01 scene シーンクラス
 ### 01_scene_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/99e1fa7a-c648-4dac-aff5-0994faf799d4" width="50%">
 
+## 02 geometrt ジオメトリ(形状)
 ### 02_geometries_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/be47c8e5-463d-4245-a4b9-4fa2eb76325c" width="50%">
 
 ### 02_lathe_geometery_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/fcc8900c-8206-4974-98d2-fed6af29db9c" width="50%">
 
-
-
 ### 02_parametric_geometry_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/c2d02d44-b0bf-40eb-be8b-bdab8f4b42fe" width="50%">
-
 
 ### 02_torus_knot_example.rb
 
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/aa14a6b7-e404-4906-b6ff-8137f825999e" width="50%">
 
+## 03 object オブジェクトクラス
 ### 03_complex_object_example.rb
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
 
