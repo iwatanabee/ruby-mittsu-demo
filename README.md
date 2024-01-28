@@ -12,10 +12,7 @@ https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/7d153874-1276-47f
 
 
 ### 02_geometries_example.rb
-
-
-https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4fa83c54-0226-4bad-9a23-1189133372ec
-
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/be47c8e5-463d-4245-a4b9-4fa2eb76325c" width="50%">
 
 ### 02_lathe_geometery_example.rb
 
