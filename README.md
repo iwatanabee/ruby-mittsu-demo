@@ -53,6 +53,18 @@ Mittsu ライブラリとは、Rubyで3Dゲームを作るためのライブラ�
   - [19_mesh_face_material_example.rb](#19_mesh_face_material_examplerb)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## はじめに
+自分のPCで試したいのであれば、クローンして実行してください。  
+```
+git clone https://github.com/iwatanabee/ruby-mittsu-demo.git
+```
+例えば、02_geometries_example.rb を実行したいときは、以下のコマンドを打ってください  
+```
+cd document-example
+```
+```ruby
+ruby 02_geometries_example.rb
+```
 
 ## ドキュメントの最初のコード
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/4da409cd-a25c-403d-8a9e-3e72d3be584f" width="50%">
