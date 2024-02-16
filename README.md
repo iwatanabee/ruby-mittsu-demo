@@ -1,14 +1,22 @@
 # ruby-mittsu-demo
 <img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/be47c8e5-463d-4245-a4b9-4fa2eb76325c" width="50%">  
 
-Mittsu ライブラリにあった公式ドキュメントのコード (document-example)とゲーム開発をするときに使えそうな Tips をまとめてみました。  
+## はじめに
+Mittsu ライブラリにあった公式ドキュメントのコード (document-example)の 実行結果 とゲーム開発をするときに使えそうな Tips をまとめてみました。  
+
 Mittsu ライブラリとは、Rubyで3Dゲームを作るためのライブラリです。  
+
 コードと実行結果を貼ってあるので、参考にしてみてください。  
-公式ドキュメントはこちら→ https://github.com/danini-the-panini/mittsu
- 
+
+公式ドキュメントはこちら→ https://github.com/danini-the-panini/mittsu  
+
+<hr>
+
+<details style="font-size:large;" open="false">
+<summary>目次</summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+	
 - [ドキュメントの最初のコード](#%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89)
 - [Sceneクラス](#scene%E3%82%AF%E3%83%A9%E3%82%B9)
   - [01_scene_example.rb](#01_scene_examplerb)
@@ -55,6 +63,8 @@ Mittsu ライブラリとは、Rubyで3Dゲームを作るためのライブラ�
   - [19_mesh_face_material_example.rb](#19_mesh_face_material_examplerb)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</details>  
+
 ## 実行の仕方
 自分のPCで試したいのであれば、公式ドキュメントを見ながら、環境構築しましょう。
 環境構築が終わったら、このディレクトリを、クローンして実行してください。  
