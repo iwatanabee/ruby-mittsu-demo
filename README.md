@@ -474,8 +474,8 @@ renderer.window.run do
 end
 ```
 
-### 04_dir_light_example.rb x
-<img src="" width="50%">
+### 04_dir_light_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/7a1456f0-27f6-4e74-a863-7b27a7bd3231" width="50%">
 
 ```ruby
 require_relative './example_helper'
@@ -577,8 +577,8 @@ renderer.window.run do
 end
 ```
 
-### 04_point_light_example.rb　x
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+### 04_point_light_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/ab2806a9-3b18-4653-8a65-e81227705b09" width="50%">
 
 ```ruby
 require_relative './example_helper'
@@ -639,8 +639,8 @@ renderer.window.run do
 end
 ```
 
-### 04_spot_light_example.rb x
-<img src="#" width="50%">
+### 04_spot_light_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/eac69f26-3d2f-41e1-a748-287b08c425ac" width="50%">
 
 ```ruby
 require_relative './example_helper'
@@ -836,8 +836,9 @@ end
 
 ```
 ## テクスチャー
-### 06_cube_texture_example.rb x
-<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/9eee113f-4334-468a-8795-10c9d0181960" width="50%">
+### 06_cube_texture_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/a40f3d7a-c518-488b-9c9b-17ac45103bbb" width="50%">
+
 
 ```ruby
 require_relative './example_helper'
@@ -879,8 +880,8 @@ end
 
 ```
 
-### 06_skybox_example.rb x
-<img src="#" width="50%">
+### 06_skybox_example.rb
+<img src="https://github.com/iwatanabee/ruby-mittsu-demo/assets/83575309/6f5da99f-4d25-4257-a8b6-0495308cea6a" width="50%">
 
 ```ruby
 require_relative './example_helper'
